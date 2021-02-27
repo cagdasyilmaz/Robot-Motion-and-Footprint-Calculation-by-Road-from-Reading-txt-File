@@ -70,7 +70,7 @@ int main() {
     /*
      * Thread Declarations
      * thrMotion: in this thread, motion action is provided.
-     * thrFootprint: in this thread footprint calcul0.ation will be done.
+     * thrFootprint: in this thread footprint calculation will be done.
      */
     std::thread thrMotion{std::bind(motionThreadFn, std::ref(roadCoordinates),
             std::ref(roadVectorIterator),  std::ref(motion), motionSleeptime)};
