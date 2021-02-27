@@ -1,7 +1,3 @@
-//
-// Created by cagdas on 25.02.2021.
-//
-
 #ifndef CPP_LOG_WATCH_H
 #define CPP_LOG_WATCH_H
 
