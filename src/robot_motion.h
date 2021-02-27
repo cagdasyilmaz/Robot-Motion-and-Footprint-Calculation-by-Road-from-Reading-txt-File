@@ -1,9 +1,3 @@
-#pragma clang diagnostic push
-#pragma ide diagnostic ignored "modernize-use-nodiscard"
-//
-// Created by cagdas on 21.02.2021.
-//
-
 #ifndef CPP_ROBOT_MOVE
 #define CPP_ROBOT_MOVE
 
