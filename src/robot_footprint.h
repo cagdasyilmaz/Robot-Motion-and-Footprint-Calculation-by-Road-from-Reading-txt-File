@@ -1,7 +1,3 @@
-//
-// Created by cagdas on 22.02.2021.
-//
-
 #ifndef CPP_ROBOT_FOOTPRINT_H
 #define CPP_ROBOT_FOOTPRINT_H
 
