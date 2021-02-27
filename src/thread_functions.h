@@ -4,10 +4,10 @@
 #include <thread>
 #include <condition_variable>
 
-#include "locked_stream.h"
-#include "robot_motion.h"
-#include "robot_footprint.h"
-#include "log_watch.h"
+//#include "locked_stream.h"
+//#include "robot_motion.h"
+//#include "robot_footprint.h"
+//#include "log_watch.h"
 
 // Global declation for mutex, condition_variable, and boolean variables
 std::mutex m;
