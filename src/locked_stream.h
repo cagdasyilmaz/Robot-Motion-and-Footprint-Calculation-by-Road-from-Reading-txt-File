@@ -1,7 +1,3 @@
-//
-// Created by phsmm on 2/25/21.
-//
-
 #ifndef CPP_LOCKED_STREAM_H
 #define CPP_LOCKED_STREAM_H
 
